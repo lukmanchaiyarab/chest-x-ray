@@ -1,1 +1,1 @@
-# chest-x-ray
+# lumbar scoliosis
