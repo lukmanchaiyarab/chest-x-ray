@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>person147_virus_297.jpeg</filename>
+	<path>/Users/manchaiyarabgmail.com/Desktop/chest_xray 1/train/person147_virus_297.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1168</width>
+		<height>688</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PNEUMONIA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>164</ymin>
+			<xmax>475</xmax>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PNEUMONIA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>714</xmin>
+			<ymin>140</ymin>
+			<xmax>948</xmax>
+			<ymax>585</ymax>
+		</bndbox>
+	</object>
+</annotation>

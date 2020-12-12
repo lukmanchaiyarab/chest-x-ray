@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>person255_bacteria_1161.jpeg</filename>
+	<path>/Users/manchaiyarabgmail.com/Desktop/chest_xray 1/train/person255_bacteria_1161.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>952</width>
+		<height>632</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PNEUMONIA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>79</ymin>
+			<xmax>407</xmax>
+			<ymax>483</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PNEUMONIA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>526</xmin>
+			<ymin>75</ymin>
+			<xmax>780</xmax>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+</annotation>
