@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>person21_virus_52.jpeg</filename>
+	<path>/Users/manchaiyarabgmail.com/Desktop/chest_xray 1/test/person21_virus_52.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1952</width>
+		<height>1296</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PNEUMONIA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>303</ymin>
+			<xmax>725</xmax>
+			<ymax>1009</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PNEUMONIA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1242</xmin>
+			<ymin>235</ymin>
+			<xmax>1621</xmax>
+			<ymax>673</ymax>
+		</bndbox>
+	</object>
+</annotation>
