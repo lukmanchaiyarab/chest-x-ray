@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>person83_bacteria_414.jpeg</filename>
+	<path>/Users/manchaiyarabgmail.com/Desktop/chest_xray 1/test/person83_bacteria_414.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1010</width>
+		<height>717</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PNEUMONIA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>158</ymin>
+			<xmax>412</xmax>
+			<ymax>590</ymax>
+		</bndbox>
+	</object>
+</annotation>
